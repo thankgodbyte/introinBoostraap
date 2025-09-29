@@ -10,5 +10,6 @@
 @media only screen and (min-width: 600px) and (max-width: 1240px){
    .about_image{
     margin-top: 10px;
+    border: 1pc;
     } 
 }
