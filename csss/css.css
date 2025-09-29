@@ -1,0 +1,14 @@
+.about_image{
+    margin-top: 10px;
+    height: 400px;
+}
+@media only screen and (max-width: 600px){
+ .about_image{
+    margin-top: 9px;
+  }   
+}
+@media only screen and (min-width: 600px) and (max-width: 1240px){
+   .about_image{
+    margin-top: 10px;
+    } 
+}
